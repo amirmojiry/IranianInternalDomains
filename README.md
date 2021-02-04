@@ -14,3 +14,5 @@
 | سازمان قضایی نیروهای مسلح | [imj.ir](http://imj.ir) | 11-11-1399 | This site can't be reached. |
 | درگاه خدمات الکترونیک قضایی | [adliran.ir](https://adliran.ir) | 11-11-1399 | This site can't be reached. |
 | شرکت مخابرات ایران | [tci.ir](https://tci.ir/) | 15-11-1399 | This site can't be reached. |
+| نیروی انتظامی | [police.ir](https://police.ir/) | 16-11-1399 | You are not authorized to access this website.|
+| درگاه خدمات الکترونیک انتظامی | [epolice.ir](https://epolice.ir/) | 16-11-1399 | This site can't be reached.|
