@@ -14,3 +14,4 @@
 | سازمان قضایی نیروهای مسلح | [imj.ir](http://imj.ir) | 11-11-1399 | This site can't be reached. |
 | درگاه خدمات الکترونیک قضایی | [adliran.ir](https://adliran.ir) | 11-11-1399 | This site can't be reached. |
 | شرکت مخابرات ایران | [tci.ir](https://tci.ir/) | 15-11-1399 | This site can't be reached. |
+| وادانا - واحد الکترونیکی دانشگاه آزاد اسلامی | [vadamap.iauec.ac.ir](https://vadamap.iauec.ac.ir/) | 15-11-1399 | vadana.iauec.ac.ir didn’t send any data. |
