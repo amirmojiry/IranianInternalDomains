@@ -14,3 +14,7 @@
 | سازمان قضایی نیروهای مسلح | [imj.ir](http://imj.ir) | 11-11-1399 | This site can't be reached. |
 | درگاه خدمات الکترونیک قضایی | [adliran.ir](https://adliran.ir) | 11-11-1399 | This site can't be reached. |
 | شرکت مخابرات ایران | [tci.ir](https://tci.ir/) | 15-11-1399 | This site can't be reached. |
+| اداره کل پشتیبانی و امور اداری | [eservice.medu.ir](https://eservice.medu.ir) | 16-11-1399 | This site can't be reached. |
+| پورتال همگام | [hamgam.medu.ir](https://hamgam.medu.ir) | 16-11-1399 | This site can't be reached. |
+| سازمان الکترونیک وزارت آموزش و پرورش | [eorg.medu.ir](https://eorg.medu.ir) | 16-11-1399 | This site can't be reached. |
+| سامانه فیش حقوقی وزارت آموزش و پرورش | [fish.medu.ir](https://fish.medu.ir) | 16-11-1399 | This site can't be reached. |
