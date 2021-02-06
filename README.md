@@ -2,6 +2,7 @@
 دامنه‌های داخلی ایران
 فهرستی از سایت‌هایی که فقط با آی‌پی ایران قابل مشاهده هستند
 
+## فهرست
 - [دانلود فایل txt](https://github.com/amirmojiry/IranianInternalDomains/blob/main/list.txt)
   
 | نام سایت | نشانی سایت | تاریخ آخرین بررسی | نوع خطا |
@@ -27,3 +28,7 @@
 | پورتال همگام | [hamgam.medu.ir](https://hamgam.medu.ir) | 16-11-1399 | This site can't be reached. |
 | سازمان الکترونیک وزارت آموزش و پرورش | [eorg.medu.ir](https://eorg.medu.ir) | 16-11-1399 | This site can't be reached. |
 | سامانه فیش حقوقی وزارت آموزش و پرورش | [fish.medu.ir](https://fish.medu.ir) | 16-11-1399 | This site can't be reached. |
+
+## مخزن‌های مرتبط
+- [Iranian Internal Traffic Domains](https://github.com/amirmojiry/IranianInternalTrafficDomains)
+- [Iranian Filtered Domains](https://github.com/amirmojiry/IranianFilteredDomains)
