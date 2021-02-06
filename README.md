@@ -22,3 +22,7 @@
 | درگاه خدمات الکترونیک انتظامی | [epolice.ir](https://epolice.ir/) | 16-11-1399 | This site can't be reached.|
 | رایتل | [rightel.ir](https://www.rightel.ir/) | 16-11-1399 | This site can't be reached. |
 | وادانا - واحد الکترونیکی دانشگاه آزاد اسلامی | [vadamap.iauec.ac.ir](https://vadamap.iauec.ac.ir/) | 15-11-1399 | vadana.iauec.ac.ir didn’t send any data. |
+| اداره کل پشتیبانی و امور اداری | [eservice.medu.ir](https://eservice.medu.ir) | 16-11-1399 | This site can't be reached. |
+| پورتال همگام | [hamgam.medu.ir](https://hamgam.medu.ir) | 16-11-1399 | This site can't be reached. |
+| سازمان الکترونیک وزارت آموزش و پرورش | [eorg.medu.ir](https://eorg.medu.ir) | 16-11-1399 | This site can't be reached. |
+| سامانه فیش حقوقی وزارت آموزش و پرورش | [fish.medu.ir](https://fish.medu.ir) | 16-11-1399 | This site can't be reached. |
