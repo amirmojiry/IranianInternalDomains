@@ -21,3 +21,4 @@
 | نیروی انتظامی | [police.ir](https://police.ir/) | 16-11-1399 | You are not authorized to access this website.|
 | درگاه خدمات الکترونیک انتظامی | [epolice.ir](https://epolice.ir/) | 16-11-1399 | This site can't be reached.|
 | رایتل | [rightel.ir](https://www.rightel.ir/) | 16-11-1399 | This site can't be reached. |
+| وادانا - واحد الکترونیکی دانشگاه آزاد اسلامی | [vadamap.iauec.ac.ir](https://vadamap.iauec.ac.ir/) | 15-11-1399 | vadana.iauec.ac.ir didn’t send any data. |
