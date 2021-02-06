@@ -14,4 +14,10 @@
 | سازمان قضایی نیروهای مسلح | [imj.ir](http://imj.ir) | 11-11-1399 | This site can't be reached. |
 | درگاه خدمات الکترونیک قضایی | [adliran.ir](https://adliran.ir) | 11-11-1399 | This site can't be reached. |
 | شرکت مخابرات ایران | [tci.ir](https://tci.ir/) | 15-11-1399 | This site can't be reached. |
+| سامانه خدمات غیر حضوری تأمین اجتماعی | [eservices.tamin.ir](https://eservices.tamin.ir/) | 16-11-1399 | عدم ارتباط !!!! ارتباط با صفحه مورد نظر قطع می باشد. |
+| کنترل کیفیت هوا | [tci.ir](https://airnow.tehran.ir/) | 16-11-1399 | This site can't be reached. |
+| مای شاتل | [my.shatel.ir](https://my.shatel.ir) | 16-11-1399 | This site can't be reached. |
+| پی سی دانلود | [p30download.ir](https://p30download.ir) | 16-11-1399 | You don't have permission to access this resource. |
+| نیروی انتظامی | [police.ir](https://police.ir/) | 16-11-1399 | You are not authorized to access this website.|
+| درگاه خدمات الکترونیک انتظامی | [epolice.ir](https://epolice.ir/) | 16-11-1399 | This site can't be reached.|
 | رایتل | [rightel.ir](https://www.rightel.ir/) | 16-11-1399 | This site can't be reached. |
