@@ -1,4 +1,5 @@
-# iranianInternalDomains
+# Iranian Internal Domains
+دامنه‌های داخلی ایران
 فهرستی از سایت‌هایی که فقط با آی‌پی ایران قابل مشاهده هستند
 
 
