@@ -1,4 +1,7 @@
 # Iranian Internal Domains
+
+<div dir='rtl'>
+  
 دامنه‌های داخلی ایران
 فهرستی از سایت‌هایی که فقط با آی‌پی ایران قابل مشاهده هستند
 
@@ -33,3 +36,5 @@
 ## مخزن‌های مرتبط
 - [Iranian Internal Traffic Domains](https://github.com/amirmojiry/IranianInternalTrafficDomains)
 - [Iranian Filtered Domains](https://github.com/amirmojiry/IranianFilteredDomains)
+
+</div>
