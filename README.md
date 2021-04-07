@@ -34,6 +34,7 @@
 | سامانه فیش حقوقی وزارت آموزش و پرورش | [fish.medu.ir](https://fish.medu.ir) | 16-11-1399 | This site can't be reached. |
 | سازمان هواپیمایی کشوری | [cao.ir](https://cao.ir) | 18-01-1400 | 500 Internal Privoxy Error |
 | مرکز آزمون جهاد دانشگاهی | [hrtc.ir](https://hrtc.ir) | 18-01-1400 | خطای ۴۰۳: درخواست از IP یا منطقه‌ی جغرافیایی شما مسدود شده است! |
+| بورس اوراق بهادار تهران | [irbourse.com](http://irbourse.com) | 18-01-1400 | 500 Internal Privoxy Error |
 
 ## مخزن‌های مرتبط
 - [Iranian Internal Traffic Domains](https://github.com/amirmojiry/IranianInternalTrafficDomains)
