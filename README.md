@@ -35,6 +35,7 @@
 | سازمان هواپیمایی کشوری | [cao.ir](https://cao.ir) | 18-01-1400 | 500 Internal Privoxy Error |
 | مرکز آزمون جهاد دانشگاهی | [hrtc.ir](https://hrtc.ir) | 18-01-1400 | خطای ۴۰۳: درخواست از IP یا منطقه‌ی جغرافیایی شما مسدود شده است! |
 | بورس اوراق بهادار تهران | [irbourse.com](http://irbourse.com) | 18-01-1400 | 500 Internal Privoxy Error |
+| سامانه مرکز آموزش الکترونیکی دانشگاه صنعتی خواجه نصیرالدین طویب | [vc.kntu.ac.ir](https://vc.kntu.ac.ir) | 23-03-1400 | This site can't be reached. |
 
 ## مخزن‌های مرتبط
 - [Iranian Internal Traffic Domains](https://github.com/amirmojiry/IranianInternalTrafficDomains)
